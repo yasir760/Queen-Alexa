@@ -35,7 +35,7 @@ WhatsApp Bot
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+[`Click Here`](https://github.com/yasir760/Queen-Alexa/blob/main/session.json#L1)
 
 ## `SETTING`
 
